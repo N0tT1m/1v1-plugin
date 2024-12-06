@@ -1,0 +1,13 @@
+/Users/timmy/workspace/mods/1v1/bin/Debug/net8.0/1v1Plugin.deps.json
+/Users/timmy/workspace/mods/1v1/bin/Debug/net8.0/1v1Plugin.dll
+/Users/timmy/workspace/mods/1v1/bin/Debug/net8.0/1v1Plugin.pdb
+/Users/timmy/workspace/mods/1v1/obj/Debug/net8.0/1v1Plugin.csproj.AssemblyReference.cache
+/Users/timmy/workspace/mods/1v1/obj/Debug/net8.0/1v1Plugin.GeneratedMSBuildEditorConfig.editorconfig
+/Users/timmy/workspace/mods/1v1/obj/Debug/net8.0/1v1Plugin.AssemblyInfoInputs.cache
+/Users/timmy/workspace/mods/1v1/obj/Debug/net8.0/1v1Plugin.AssemblyInfo.cs
+/Users/timmy/workspace/mods/1v1/obj/Debug/net8.0/1v1Plugin.csproj.CoreCompileInputs.cache
+/Users/timmy/workspace/mods/1v1/obj/Debug/net8.0/1v1Plugin.sourcelink.json
+/Users/timmy/workspace/mods/1v1/obj/Debug/net8.0/1v1Plugin.dll
+/Users/timmy/workspace/mods/1v1/obj/Debug/net8.0/refint/1v1Plugin.dll
+/Users/timmy/workspace/mods/1v1/obj/Debug/net8.0/1v1Plugin.pdb
+/Users/timmy/workspace/mods/1v1/obj/Debug/net8.0/ref/1v1Plugin.dll
